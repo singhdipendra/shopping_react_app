@@ -8,7 +8,7 @@ import Cart from './pages/Cart'
 const App = () => {
   return (
     <div>
-      <div className='bg-[#711DB0]'>
+      <div className='bg-[#8435de]'>
         <Navbar/>
       </div>
       
